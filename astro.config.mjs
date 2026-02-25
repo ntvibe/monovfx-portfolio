@@ -1,6 +1,5 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  site: 'https://ntvibe.github.io',
-  base: '/monovfx-portfolio',
+  site: 'https://ntvibe.github.io/monovfx-portfolio/',
 });
